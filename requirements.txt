@@ -1,8 +1,11 @@
-pandas
 numpy
+pandas
+python-dotenv
+mysql-connector-python
+pymysql
 scikit-learn
 seaborn
-ipykernel
-matplotlib
-flask
+catboost
+xgboost
+mlflow
 -e .
