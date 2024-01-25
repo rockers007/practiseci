@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine%20Learning/Practice/Practice%201/mlruns/0/00fd1a477bed48e3adc8e9ed7300bc36/artifacts
+end_time: 1706177621133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00fd1a477bed48e3adc8e9ed7300bc36
+run_name: sincere-hog-808
+run_uuid: 00fd1a477bed48e3adc8e9ed7300bc36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706177618591
+status: 3
+tags: []
+user_id: root

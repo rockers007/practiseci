@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Machine%20Learning/Practice/Practice%201/mlruns/0/8a023e3faae94faf939978fa2a7067d9/artifacts
+end_time: 1706177505379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a023e3faae94faf939978fa2a7067d9
+run_name: bedecked-bee-957
+run_uuid: 8a023e3faae94faf939978fa2a7067d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706177497035
+status: 3
+tags: []
+user_id: root
